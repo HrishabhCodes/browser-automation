@@ -7,27 +7,27 @@
 
 ### Various Puppeteer Functions Used in this Activity
 
-###### launch()
+##### 1. launch()
 
 - Opens up the browser.
 - Browser is "headless" by default. Hence, Chromium won't show up until we pass {headless: false} as an argument.
 
-###### pages()
+##### 2. pages()
 
 - Gives currently opened tabs.
 
-###### waitForSelector()
+##### 3. waitForSelector()
 
 - Our script might run before the page gets loaded, so it might fail. Hence, we wait for the element to be loaded first using this method.
 
-###### goto()
+##### 4. goto()
 
 - Navigates us to the URL passed as an argument.
 
-###### type()
+##### 5. type()
 
 - Selects an element of the page using CSS Selectors and then types the string provided as the second argument inside it.
 
-###### press()
+##### 6. press()
 
 - Presses the key passed as the argument.
