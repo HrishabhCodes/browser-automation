@@ -1,9 +1,10 @@
 ###### A basic JS script for automating a simple task. This activity is great to learn about Promises.
 
-### Amazing Blogs on Puppeteer
+### Articles on Puppeteer and its Documentation
 
 - [Getting to Know Puppeteer Using Practical Examples](https://nitayneeman.com/posts/getting-to-know-puppeteer-using-practical-examples/)
 - [Introduction to Puppeteer](https://flaviocopes.com/puppeteer/)
+- [Documentation](https://pptr.dev)
 
 ### Various Puppeteer Functions Used in this Activity
 
