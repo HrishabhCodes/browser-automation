@@ -32,3 +32,7 @@
 ##### 6. press()
 
 - Presses the key passed as the argument.
+
+### Demo
+
+https://user-images.githubusercontent.com/71200145/147737746-032051dd-0d21-4086-9a4b-ddf505da84c6.mov
